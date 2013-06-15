@@ -1,0 +1,24 @@
+# www.pdxco.de - @pdxcode
+
+# TEAM
+
+Mathew J. Smith AKA Devalchemist - Project Manager - @devalchemist
+
+# Want To Help?
+
+If you're interested in helping, please get in touch with me either
+via email at devalchemist@pdxco.de or on twitter: @devalchemist. I
+very well may end up needing some help with the PHP on things. I am 
+only a beginner in PHP. The design, HTML, and CSS I have under control.
+I am pretty decent with JavaScript and jQuery, but any pros out there
+who want to help, I would love your expertise on this project. You can
+never learn too many techniques for programming.
+
+# THANKS
+
+    Coming soon!
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3, JavaScript,
+    Normalize.css, jQuery, Modernizr
